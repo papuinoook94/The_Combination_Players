@@ -1,0 +1,21 @@
+INSERT INTO jugadores (nombre, extremo_izquierdo_def, segundo_izquierdo_51, segundo_izquierdo_60, 
+                       central_def, avanzado, segundo_derecho_60, segundo_derecho_51, extremo_derecho_def, 
+                       extremo_izquierdo, lateral_izquierdo, central_of, lateral_derecho, extremo_derecho_of, 
+                       pivote, general)
+VALUES
+('López', 3, 4, 4, 4, 4, 4, 4, 3, 2, 4, 4, 4, 0, 2, 94.44),
+('Biedma', 0, 4, 4, 4, 0, 4, 3, 0, 0, 3, 4, 4, 2, 4, 88.89),
+('Naxo', 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 2, 3, 3, 3, 88.89),
+('Zurdo', 0, 0, 0, 2, 0, 4, 4, 4, 0, 0, 0, 4, 4, 0, 88.89),
+('Ale', 3, 4, 4, 4, 1, 4, 4, 3, 0, 4, 4, 2, 0, 4, 83.33),
+('Dario', 3, 4, 4, 2, 3, 4, 4, 3, 3, 4, 3, 3, 3, 0, 80.56),
+('Gonzalo', 2, 3, 4, 4, 0, 3, 3, 3, 2, 0, 0, 2, 2, 4, 80.56),
+('Diego Q', 3, 4, 4, 1, 1, 4, 4, 3, 3, 4, 0, 2, 2, 4, 75),
+('Daniel', 4, 3, 3, 1, 4, 2, 2, 4, 4, 3, 0, 2, 2, 0, 72.22),
+('Cayetano', 4, 3, 3, 0, 3, 3, 3, 4, 4, 3, 0, 2, 2, 0, 72.22),
+('Luque', 3, 2, 2, 0, 3, 2, 2, 3, 4, 3, 4, 1, 0, 0, 72.22),
+('Ruben', 3, 2, 2, 0, 0, 2, 2, 3, 3, 3, 4, 1, 0, 0, 69.44),
+('Ayden', 0, 0, 0, 0, 0, 2, 2, 4, 0, 0, 0, 1, 4, 0, 69.44),
+('Paco', 3, 3, 3, 0, 0, 3, 3, 4, 3, 0, 0, 2, 3, 3, 58.33),
+('Millan', 3, 3, 3, 2, 0, 2, 3, 3, 3, 4, 4, 2, 0, 2, 58.33),
+('Lucas', 4, 3, 3, 0, 0, 3, 3, 4, 4, 4, 3, 3, 0, 0, 52.78);
